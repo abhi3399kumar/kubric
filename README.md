@@ -1,0 +1,2 @@
+# kubric
+Kubric placement test
